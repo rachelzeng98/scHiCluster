@@ -102,6 +102,7 @@ You don't need to create the folder before running.
 ```
 
 After running the above command, we get a file names snakemake_cmd.txt. Run the command to get imputed cool files at 100kb resolution :
+
 ```bash
 bash /home/qzeng_salk_edu/project/aging/230711_m3C/impute/100K/snakemake_cmd.txt 
 ```
